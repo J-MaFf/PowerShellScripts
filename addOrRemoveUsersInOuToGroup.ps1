@@ -1,3 +1,6 @@
+# Author: Joey Maffiola
+# Date: 9/18/2024
+
 # Check if script is run with administrative privileges
 function Test-AdminPrivileges {
     if (-not ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)) {
