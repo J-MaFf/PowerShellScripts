@@ -1,0 +1,244 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20240916085309
+Username: KII\admin-jmaffiola
+RunAs User: KII\admin-jmaffiola
+Machine: KIHS2BDC01 (Microsoft Windows NT 6.3.9600.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 9084
+PSVersion: 5.1.14409.2001
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.14409.2001
+BuildVersion: 10.0.14409.2001
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Users\admin-jmaffiola\Desktop\output.txt
+Processing computer: KIHW10D5232
+Added KIHW10D5232 to Endpoint Central Workstation Group
+Processing computer: KIDW10D5001
+Added KIDW10D5001 to Endpoint Central Workstation Group
+Processing computer: KINW10L6001
+Added KINW10L6001 to Endpoint Central Workstation Group
+Processing computer: KIHW10D5236
+Added KIHW10D5236 to Endpoint Central Workstation Group
+Processing computer: KIHW10D5240
+Added KIHW10D5240 to Endpoint Central Workstation Group
+Processing computer: KILW10L6027
+Added KILW10L6027 to Endpoint Central Workstation Group
+Processing computer: KIAW10L6002
+Added KIAW10L6002 to Endpoint Central Workstation Group
+Processing computer: KIAW10L6003
+Added KIAW10L6003 to Endpoint Central Workstation Group
+Processing computer: KICW10L6001
+Added KICW10L6001 to Endpoint Central Workstation Group
+Processing computer: KICW10L6004
+Added KICW10L6004 to Endpoint Central Workstation Group
+Processing computer: KIHW10D5244
+Added KIHW10D5244 to Endpoint Central Workstation Group
+Processing computer: KIHW10D5246
+Added KIHW10D5246 to Endpoint Central Workstation Group
+Processing computer: KINW10D5001
+Added KINW10D5001 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6027
+Added KIHW10L6027 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6038
+Added KIHW10L6038 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6036
+Added KIHW10L6036 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6034
+Added KIHW10L6034 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6037
+Added KIHW10L6037 to Endpoint Central Workstation Group
+Processing computer: KIHW11L6221
+Added KIHW11L6221 to Endpoint Central Workstation Group
+Processing computer: KILW10L6026
+Added KILW10L6026 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6048
+Added KIHW10L6048 to Endpoint Central Workstation Group
+Processing computer: KIHW11L6215
+Added KIHW11L6215 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6053
+Added KIHW10L6053 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6051
+Added KIHW10L6051 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6055
+Added KIHW10L6055 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6057
+Added KIHW10L6057 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6056
+Added KIHW10L6056 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6058
+Added KIHW10L6058 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6059
+Added KIHW10L6059 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6060
+Added KIHW10L6060 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6062
+Added KIHW10L6062 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6064
+Added KIHW10L6064 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6065
+Added KIHW10L6065 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6066
+Added KIHW10L6066 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6069
+Added KIHW10L6069 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6068
+Added KIHW10L6068 to Endpoint Central Workstation Group
+Processing computer: KINW10L6009
+Added KINW10L6009 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6054
+Added KIHW10L6054 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6071
+Added KIHW10L6071 to Endpoint Central Workstation Group
+Processing computer: KIAW10L6006
+Added KIAW10L6006 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6077
+Added KIHW10L6077 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6083
+Added KIHW10L6083 to Endpoint Central Workstation Group
+Processing computer: KILW10L6029
+Added KILW10L6029 to Endpoint Central Workstation Group
+Processing computer: KIXW10L6002
+Added KIXW10L6002 to Endpoint Central Workstation Group
+Processing computer: KIDW10L6005
+Added KIDW10L6005 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6084
+Added KIHW10L6084 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6085
+Added KIHW10L6085 to Endpoint Central Workstation Group
+Processing computer: KIDW10L6004
+Added KIDW10L6004 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6087
+Added KIHW10L6087 to Endpoint Central Workstation Group
+Processing computer: KILW10L6031
+Added KILW10L6031 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6089
+Added KIHW10L6089 to Endpoint Central Workstation Group
+Processing computer: KILW10L6032
+Added KILW10L6032 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6088
+Added KIHW10L6088 to Endpoint Central Workstation Group
+Processing computer: KINW10L6010
+Added KINW10L6010 to Endpoint Central Workstation Group
+Processing computer: KICW10L6007
+Added KICW10L6007 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6090
+Added KIHW10L6090 to Endpoint Central Workstation Group
+Processing computer: KIDW10L6003
+Added KIDW10L6003 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6102
+Added KIHW10L6102 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6105
+Added KIHW10L6105 to Endpoint Central Workstation Group
+Processing computer: KILW10L6033
+Added KILW10L6033 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6106
+Added KIHW10L6106 to Endpoint Central Workstation Group
+Processing computer: KIHW11L6216
+Added KIHW11L6216 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6108
+Added KIHW10L6108 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6109
+Added KIHW10L6109 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6111
+Added KIHW10L6111 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6104
+Added KIHW10L6104 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6113
+Added KIHW10L6113 to Endpoint Central Workstation Group
+Processing computer: KINW10L6103
+Added KINW10L6103 to Endpoint Central Workstation Group
+Processing computer: KIHW10L6114
+Added KIHW10L6114 to Endpoint Central Workstation Group
+Processing computer: KIXW11L6004
+Added KIXW11L6004 to Endpoint Central Workstation Group
+Processing computer: KICW11L6002
+Added KICW11L6002 to Endpoint Central Workstation Group
+Processing computer: KICW11L6003
+Added KICW11L6003 to Endpoint Central Workstation Group
+Processing computer: KICW11L6004
+Added KICW11L6004 to Endpoint Central Workstation Group
+Processing computer: KIHW11L6200
+Added KIHW11L6200 to Endpoint Central Workstation Group
+Processing computer: KILW11L6200
+Added KILW11L6200 to Endpoint Central Workstation Group
+Processing computer: KIHW11L6202
+Added KIHW11L6202 to Endpoint Central Workstation Group
+Processing computer: KIHW11L6201
+Added KIHW11L6201 to Endpoint Central Workstation Group
+Processing computer: KIHW11L6203
+Added KIHW11L6203 to Endpoint Central Workstation Group
+Processing computer: KIHW11L6204
+Added KIHW11L6204 to Endpoint Central Workstation Group
+Processing computer: KIHW11L6205
+Added KIHW11L6205 to Endpoint Central Workstation Group
+Processing computer: KIDW11L6200
+Added KIDW11L6200 to Endpoint Central Workstation Group
+Processing computer: KICW11L6005
+Added KICW11L6005 to Endpoint Central Workstation Group
+Processing computer: KINW11L6200
+Added KINW11L6200 to Endpoint Central Workstation Group
+Processing computer: KICW11L6206
+Added KICW11L6206 to Endpoint Central Workstation Group
+Processing computer: KIHW11L6207
+Added KIHW11L6207 to Endpoint Central Workstation Group
+Processing computer: KIHW11L6208
+Added KIHW11L6208 to Endpoint Central Workstation Group
+Processing computer: KIAW11L6200
+Added KIAW11L6200 to Endpoint Central Workstation Group
+Processing computer: KIHW11L6209
+Added KIHW11L6209 to Endpoint Central Workstation Group
+Processing computer: KIHW11L6210
+Added KIHW11L6210 to Endpoint Central Workstation Group
+Processing computer: KIHW11L6212
+Added KIHW11L6212 to Endpoint Central Workstation Group
+Processing computer: KIHW11L6211
+Added KIHW11L6211 to Endpoint Central Workstation Group
+Processing computer: KIHW11L6213
+Added KIHW11L6213 to Endpoint Central Workstation Group
+Processing computer: KIHW11L6214
+Added KIHW11L6214 to Endpoint Central Workstation Group
+Processing computer: KIHW11LSPARE01
+Added KIHW11LSPARE01 to Endpoint Central Workstation Group
+Processing computer: KINW11L6201
+Added KINW11L6201 to Endpoint Central Workstation Group
+Processing computer: KIAW11L6201
+Added KIAW11L6201 to Endpoint Central Workstation Group
+Processing computer: KIHW11LSPARE02
+Added KIHW11LSPARE02 to Endpoint Central Workstation Group
+Processing computer: KIHW11LSPARE03
+Added KIHW11LSPARE03 to Endpoint Central Workstation Group
+Processing computer: KILW11L6201
+Added KILW11L6201 to Endpoint Central Workstation Group
+Processing computer: KICW11L6207
+Added KICW11L6207 to Endpoint Central Workstation Group
+Processing computer: KIHW11L6217
+Added KIHW11L6217 to Endpoint Central Workstation Group
+Processing computer: KIHW11L6206
+Added KIHW11L6206 to Endpoint Central Workstation Group
+Processing computer: KIHW11L6218
+Added KIHW11L6218 to Endpoint Central Workstation Group
+Processing computer: KIHW11L6219
+Added KIHW11L6219 to Endpoint Central Workstation Group
+Processing computer: KIHW11L6220
+Added KIHW11L6220 to Endpoint Central Workstation Group
+Processing computer: KIAW11L6202
+Added KIAW11L6202 to Endpoint Central Workstation Group
+Processing computer: KILW11L6202
+Added KILW11L6202 to Endpoint Central Workstation Group
+Processing computer: KIHW11L6222
+Added KIHW11L6222 to Endpoint Central Workstation Group
+Processing computer: KIHW11L6223
+Added KIHW11L6223 to Endpoint Central Workstation Group
+Processing computer: KIHW11L6224
+Added KIHW11L6224 to Endpoint Central Workstation Group
+Processing computer: KINW11L6202
+Added KINW11L6202 to Endpoint Central Workstation Group
+**********************
+Windows PowerShell transcript end
+End time: 20240916085311
+**********************

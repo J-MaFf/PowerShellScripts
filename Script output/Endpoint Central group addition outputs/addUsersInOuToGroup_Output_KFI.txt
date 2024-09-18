@@ -1,0 +1,403 @@
+**********************
+Windows PowerShell transcript start
+Start time: 20240918081336
+Username: KFI\admin-jmaffiola
+RunAs User: KFI\admin-jmaffiola
+Configuration Name: 
+Machine: KFWS9BDC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 5900
+PSVersion: 5.1.17763.6189
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.6189
+BuildVersion: 10.0.17763.6189
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Users\admin-jmaffiola\Desktop\Scripts\Output\addUsersInOuToGroup_Output.txt
+Processing user: Carrie Mickelson
+Added Carrie Mickelson to Endpoint Central Workstation Group
+Processing user: Tomohiro Kawaguchi
+Added Tomohiro Kawaguchi to Endpoint Central Workstation Group
+Processing user: Tomoya Wakabayashi
+Added Tomoya Wakabayashi to Endpoint Central Workstation Group
+Processing user: John King
+Added John King to Endpoint Central Workstation Group
+Processing user: Travis Behrens
+Added Travis Behrens to Endpoint Central Workstation Group
+Processing user: Casey Szyjewski
+Added Casey Szyjewski to Endpoint Central Workstation Group
+Processing user: Bill Hughes
+Added Bill Hughes to Endpoint Central Workstation Group
+Processing user: Dean Cavey
+Added Dean Cavey to Endpoint Central Workstation Group
+Processing user: Michelle Ross
+Added Michelle Ross to Endpoint Central Workstation Group
+Processing user: Andrew Gasch
+Added Andrew Gasch to Endpoint Central Workstation Group
+Processing user: Andrew Phaboriboune
+Added Andrew Phaboriboune to Endpoint Central Workstation Group
+Processing user: jsmith
+Added jsmith to Endpoint Central Workstation Group
+Processing user: jritchey
+Added jritchey to Endpoint Central Workstation Group
+Processing user: Eric Garcia
+Added Eric Garcia to Endpoint Central Workstation Group
+Processing user: bkadlec
+Added bkadlec to Endpoint Central Workstation Group
+Processing user: Paige Merriweather
+Added Paige Merriweather to Endpoint Central Workstation Group
+Processing user: Diana Lund
+Added Diana Lund to Endpoint Central Workstation Group
+Processing user: Chase McDonald
+Added Chase McDonald to Endpoint Central Workstation Group
+Processing user: KFM Maintenance
+Added KFM Maintenance to Endpoint Central Workstation Group
+Processing user: Yuji Hayashi
+Added Yuji Hayashi to Endpoint Central Workstation Group
+Processing user: Jim Tong
+Added Jim Tong to Endpoint Central Workstation Group
+Processing user: Frank Ashby
+Added Frank Ashby to Endpoint Central Workstation Group
+Processing user: Tiffany Wozniak
+Added Tiffany Wozniak to Endpoint Central Workstation Group
+Processing user: Zhenyou Shang
+Added Zhenyou Shang to Endpoint Central Workstation Group
+Processing user: Taro Nagatani
+Added Taro Nagatani to Endpoint Central Workstation Group
+Processing user: Matthew Vavra
+Added Matthew Vavra to Endpoint Central Workstation Group
+Processing user: Timothy Griffin
+Added Timothy Griffin to Endpoint Central Workstation Group
+Processing user: kkeane
+Added kkeane to Endpoint Central Workstation Group
+Processing user: Hong Matmanivong
+Added Hong Matmanivong to Endpoint Central Workstation Group
+Processing user: Nate Skoien
+Added Nate Skoien to Endpoint Central Workstation Group
+Processing user: Yuriy Marin
+Added Yuriy Marin to Endpoint Central Workstation Group
+Processing user: admin-adaniel
+Added admin-adaniel to Endpoint Central Workstation Group
+Processing user: bbenson
+Added bbenson to Endpoint Central Workstation Group
+Processing user: Ken Umeda
+Added Ken Umeda to Endpoint Central Workstation Group
+Processing user: skonno
+Added skonno to Endpoint Central Workstation Group
+Processing user: Cole Foderaro
+Added Cole Foderaro to Endpoint Central Workstation Group
+Processing user: Emily Nobles
+Added Emily Nobles to Endpoint Central Workstation Group
+Processing user: Ayako Hashizume
+Added Ayako Hashizume to Endpoint Central Workstation Group
+Processing user: Alexander Kobayashi
+Added Alexander Kobayashi to Endpoint Central Workstation Group
+Processing user: admin-jmaffiola
+Added admin-jmaffiola to Endpoint Central Workstation Group
+Processing user: khirano
+Added khirano to Endpoint Central Workstation Group
+Processing user: Steven Dean
+Added Steven Dean to Endpoint Central Workstation Group
+Processing user: admin-jryan
+Added admin-jryan to Endpoint Central Workstation Group
+Processing user: Shravani Nalla
+Added Shravani Nalla to Endpoint Central Workstation Group
+Processing user: dev-brian
+Added dev-brian to Endpoint Central Workstation Group
+Processing user: admin-gabriel
+Added admin-gabriel to Endpoint Central Workstation Group
+Processing user: Tyler Marinkovic
+Added Tyler Marinkovic to Endpoint Central Workstation Group
+Processing user: admin-pbeason
+Added admin-pbeason to Endpoint Central Workstation Group
+Processing user: KMS Support
+Added KMS Support to Endpoint Central Workstation Group
+Processing user: dev-cole
+Added dev-cole to Endpoint Central Workstation Group
+Processing user: admin-khirano
+Added admin-khirano to Endpoint Central Workstation Group
+Processing user: Gordy Frank
+Added Gordy Frank to Endpoint Central Workstation Group
+Processing user: icat user
+Added icat user to Endpoint Central Workstation Group
+Processing user: admin-hide
+Added admin-hide to Endpoint Central Workstation Group
+Processing user: dev-shravani
+Added dev-shravani to Endpoint Central Workstation Group
+Processing user: Dodzidenu Dzakuma
+Added Dodzidenu Dzakuma to Endpoint Central Workstation Group
+Processing user: admin-mmaiden
+Added admin-mmaiden to Endpoint Central Workstation Group
+Processing user: Tom Armstrong
+Added Tom Armstrong to Endpoint Central Workstation Group
+Processing user: Daniel Matusek
+Added Daniel Matusek to Endpoint Central Workstation Group
+Processing user: Kazuhiro Shioda
+Added Kazuhiro Shioda to Endpoint Central Workstation Group
+Processing user: Peter Batdorf
+Added Peter Batdorf to Endpoint Central Workstation Group
+Processing user: Dave Batchelder
+Added Dave Batchelder to Endpoint Central Workstation Group
+Processing user: Dwight Goeddeke
+Added Dwight Goeddeke to Endpoint Central Workstation Group
+Processing user: Jonathan Carr
+Added Jonathan Carr to Endpoint Central Workstation Group
+Processing user: Taylor Hummel
+Added Taylor Hummel to Endpoint Central Workstation Group
+Processing user: Josh Morrison
+Added Josh Morrison to Endpoint Central Workstation Group
+Processing user: tduesterbeck
+Added tduesterbeck to Endpoint Central Workstation Group
+Processing user: Keith Zillmer
+Added Keith Zillmer to Endpoint Central Workstation Group
+Processing user: Kevin McCann
+Added Kevin McCann to Endpoint Central Workstation Group
+Processing user: hharding
+Added hharding to Endpoint Central Workstation Group
+Processing user: nmusgrove
+Added nmusgrove to Endpoint Central Workstation Group
+Processing user: Hiroki Ono
+Added Hiroki Ono to Endpoint Central Workstation Group
+Processing user: Mike Anderson
+Added Mike Anderson to Endpoint Central Workstation Group
+Processing user: Jeff Werfelmann
+Added Jeff Werfelmann to Endpoint Central Workstation Group
+Processing user: Ken Collins
+Added Ken Collins to Endpoint Central Workstation Group
+Processing user: Atsuo (Ike) Yaginuma
+Added Atsuo (Ike) Yaginuma to Endpoint Central Workstation Group
+Processing user: Dina Puerner
+Added Dina Puerner to Endpoint Central Workstation Group
+Processing user: Roy Kanegae PM
+Added Roy Kanegae PM to Endpoint Central Workstation Group
+Processing user: Carl Melby
+Added Carl Melby to Endpoint Central Workstation Group
+Processing user: Scott Sweer
+Added Scott Sweer to Endpoint Central Workstation Group
+Processing user: Cathy Campbell
+Added Cathy Campbell to Endpoint Central Workstation Group
+Processing user: gcarrizales
+Added gcarrizales to Endpoint Central Workstation Group
+Processing user: Kyle Biggerstaff
+Added Kyle Biggerstaff to Endpoint Central Workstation Group
+Processing user: Mike Fuhrer
+Added Mike Fuhrer to Endpoint Central Workstation Group
+Processing user: Eric Messerschmidt
+Added Eric Messerschmidt to Endpoint Central Workstation Group
+Processing user: Randy Salzman
+Added Randy Salzman to Endpoint Central Workstation Group
+Processing user: Ramiro Manriquez
+Added Ramiro Manriquez to Endpoint Central Workstation Group
+Processing user: Laura Greene
+Added Laura Greene to Endpoint Central Workstation Group
+Processing user: Wayne Wollslair
+Added Wayne Wollslair to Endpoint Central Workstation Group
+Processing user: Dan Sween
+Added Dan Sween to Endpoint Central Workstation Group
+Processing user: Domenic Alexandroni
+Added Domenic Alexandroni to Endpoint Central Workstation Group
+Processing user: Hector Peralta
+Added Hector Peralta to Endpoint Central Workstation Group
+Processing user: dmiller
+Added dmiller to Endpoint Central Workstation Group
+Processing user: Kris Fehly
+Added Kris Fehly to Endpoint Central Workstation Group
+Processing user: Juan Bustos
+Added Juan Bustos to Endpoint Central Workstation Group
+Processing user: Jenifer Lingar
+Added Jenifer Lingar to Endpoint Central Workstation Group
+Processing user: Francisco Altamirano
+Added Francisco Altamirano to Endpoint Central Workstation Group
+Processing user: Nichole Jagodzinski
+Added Nichole Jagodzinski to Endpoint Central Workstation Group
+Processing user: Andy Groell
+Added Andy Groell to Endpoint Central Workstation Group
+Processing user: Michael Knoll
+Added Michael Knoll to Endpoint Central Workstation Group
+Processing user: John Stickney
+Added John Stickney to Endpoint Central Workstation Group
+Processing user: Melisa Rico
+Added Melisa Rico to Endpoint Central Workstation Group
+Processing user: Doug Isler
+Added Doug Isler to Endpoint Central Workstation Group
+Processing user: kroth
+Added kroth to Endpoint Central Workstation Group
+Processing user: mneshek
+Added mneshek to Endpoint Central Workstation Group
+Processing user: Steve Smith
+Added Steve Smith to Endpoint Central Workstation Group
+Processing user: rconover
+Added rconover to Endpoint Central Workstation Group
+Processing user: hhusain
+Added hhusain to Endpoint Central Workstation Group
+Processing user: dlinhart
+Added dlinhart to Endpoint Central Workstation Group
+Processing user: Kristy Parkerson
+Added Kristy Parkerson to Endpoint Central Workstation Group
+Processing user: Tom Heacox
+Added Tom Heacox to Endpoint Central Workstation Group
+Processing user: William Seeber
+Added William Seeber to Endpoint Central Workstation Group
+Processing user: bdeleon
+Added bdeleon to Endpoint Central Workstation Group
+Processing user: Corbin Matheson
+Added Corbin Matheson to Endpoint Central Workstation Group
+Processing user: Neil Lauersdorf
+Added Neil Lauersdorf to Endpoint Central Workstation Group
+Processing user: Joe Gonzalez
+Added Joe Gonzalez to Endpoint Central Workstation Group
+Processing user: Shohei Tanii
+Added Shohei Tanii to Endpoint Central Workstation Group
+Processing user: Michael Geise
+Added Michael Geise to Endpoint Central Workstation Group
+Processing user: Merlin Peacey
+Added Merlin Peacey to Endpoint Central Workstation Group
+Processing user: Jeremy Sabin
+Added Jeremy Sabin to Endpoint Central Workstation Group
+Processing user: Atsushi Sato
+Added Atsushi Sato to Endpoint Central Workstation Group
+Processing user: Tsubasa Inoue
+Added Tsubasa Inoue to Endpoint Central Workstation Group
+Processing user: Naoto Ohno
+Added Naoto Ohno to Endpoint Central Workstation Group
+Processing user: Maiko Fusame
+Added Maiko Fusame to Endpoint Central Workstation Group
+Processing user: graczon
+Added graczon to Endpoint Central Workstation Group
+Processing user: Matt Nieuwenhuis
+Added Matt Nieuwenhuis to Endpoint Central Workstation Group
+Processing user: Edgar Hernandez
+Added Edgar Hernandez to Endpoint Central Workstation Group
+Processing user: Mary Ramirez
+Added Mary Ramirez to Endpoint Central Workstation Group
+Processing user: Bryan Cushman
+Added Bryan Cushman to Endpoint Central Workstation Group
+Processing user: Koshi Kato
+Added Koshi Kato to Endpoint Central Workstation Group
+Processing user: Samantha Shear
+Added Samantha Shear to Endpoint Central Workstation Group
+Processing user: Ariel Lavie
+Added Ariel Lavie to Endpoint Central Workstation Group
+Processing user: Juan Hernandez
+Added Juan Hernandez to Endpoint Central Workstation Group
+Processing user: Rob Strain
+Added Rob Strain to Endpoint Central Workstation Group
+Processing user: amoyer
+Added amoyer to Endpoint Central Workstation Group
+Processing user: ccarson
+Added ccarson to Endpoint Central Workstation Group
+Processing user: jrichardson
+Added jrichardson to Endpoint Central Workstation Group
+Processing user: kmatchem
+Added kmatchem to Endpoint Central Workstation Group
+Processing user: jhylton
+Added jhylton to Endpoint Central Workstation Group
+Processing user: Raul (Mario) Ames-Garcia
+Added Raul (Mario) Ames-Garcia to Endpoint Central Workstation Group
+Processing user: deastman
+Added deastman to Endpoint Central Workstation Group
+Processing user: Belmin Deumic
+Added Belmin Deumic to Endpoint Central Workstation Group
+Processing user: Victor Esparza
+Added Victor Esparza to Endpoint Central Workstation Group
+Processing user: caattendant
+Added caattendant to Endpoint Central Workstation Group
+Processing user: Fernando Saldana
+Added Fernando Saldana to Endpoint Central Workstation Group
+Processing user: Jennifer Barber
+Added Jennifer Barber to Endpoint Central Workstation Group
+Processing user: Kiyotaka Nagai
+Added Kiyotaka Nagai to Endpoint Central Workstation Group
+Processing user: Takushi Kobayashi
+Added Takushi Kobayashi to Endpoint Central Workstation Group
+Processing user: CA Administration
+Added CA Administration to Endpoint Central Workstation Group
+Processing user: rconner
+Added rconner to Endpoint Central Workstation Group
+Processing user: Antonio Castellano
+Added Antonio Castellano to Endpoint Central Workstation Group
+Processing user: Bryon Wills
+Added Bryon Wills to Endpoint Central Workstation Group
+Processing user: Kathy Nguyen
+Added Kathy Nguyen to Endpoint Central Workstation Group
+Processing user: Mark Riley
+Added Mark Riley to Endpoint Central Workstation Group
+Processing user: Charles Ferrell
+Added Charles Ferrell to Endpoint Central Workstation Group
+Processing user: secca
+Added secca to Endpoint Central Workstation Group
+Processing user: KFI Logistics
+Added KFI Logistics to Endpoint Central Workstation Group
+Processing user: Bruce Larsen
+Added Bruce Larsen to Endpoint Central Workstation Group
+Processing user: Mathew Dreger
+Added Mathew Dreger to Endpoint Central Workstation Group
+Processing user: Austin Chernosky
+Added Austin Chernosky to Endpoint Central Workstation Group
+Processing user: wzabel
+Added wzabel to Endpoint Central Workstation Group
+Processing user: Adam Yurs
+Added Adam Yurs to Endpoint Central Workstation Group
+Processing user: John Gialluisi
+Added John Gialluisi to Endpoint Central Workstation Group
+Processing user: Jack Gillingham
+Added Jack Gillingham to Endpoint Central Workstation Group
+Processing user: Megan Meadie
+Added Megan Meadie to Endpoint Central Workstation Group
+Processing user: Joe Taylor
+Added Joe Taylor to Endpoint Central Workstation Group
+Processing user: mwarosh
+Added mwarosh to Endpoint Central Workstation Group
+Processing user: Michael Lindbergh
+Added Michael Lindbergh to Endpoint Central Workstation Group
+Processing user: Sal Sierra-Flores
+Added Sal Sierra-Flores to Endpoint Central Workstation Group
+Processing user: Jennifer Young
+Added Jennifer Young to Endpoint Central Workstation Group
+Processing user: sayling
+Added sayling to Endpoint Central Workstation Group
+Processing user: Holly Ayen
+Added Holly Ayen to Endpoint Central Workstation Group
+Processing user: Clayton Brewer
+Added Clayton Brewer to Endpoint Central Workstation Group
+Processing user: Andrew Anderson
+Added Andrew Anderson to Endpoint Central Workstation Group
+Processing user: Brandon Smith
+Added Brandon Smith to Endpoint Central Workstation Group
+Processing user: Ryohei Tsuji
+Added Ryohei Tsuji to Endpoint Central Workstation Group
+Processing user: Shari Trebes
+Added Shari Trebes to Endpoint Central Workstation Group
+Processing user: Miranda Hull
+Added Miranda Hull to Endpoint Central Workstation Group
+Processing user: rtimp
+Added rtimp to Endpoint Central Workstation Group
+Processing user: Matt Bongard
+Added Matt Bongard to Endpoint Central Workstation Group
+Processing user: Rod Timp
+Added Rod Timp to Endpoint Central Workstation Group
+Processing user: Selena Christiansen
+Added Selena Christiansen to Endpoint Central Workstation Group
+Processing user: Josie Schlueter
+Added Josie Schlueter to Endpoint Central Workstation Group
+Processing user: Brenda Kissner
+Added Brenda Kissner to Endpoint Central Workstation Group
+Processing user: Corrina Talo
+Added Corrina Talo to Endpoint Central Workstation Group
+Processing user: Kenichi Kamei
+Added Kenichi Kamei to Endpoint Central Workstation Group
+Processing user: Jose Barrera Mecinas
+Added Jose Barrera Mecinas to Endpoint Central Workstation Group
+Processing user: Tim Leedle
+Added Tim Leedle to Endpoint Central Workstation Group
+Processing user: Kari Konkol
+Added Kari Konkol to Endpoint Central Workstation Group
+Processing user: Mark Hoeser
+Added Mark Hoeser to Endpoint Central Workstation Group
+**********************
+Windows PowerShell transcript end
+End time: 20240918081343
+**********************

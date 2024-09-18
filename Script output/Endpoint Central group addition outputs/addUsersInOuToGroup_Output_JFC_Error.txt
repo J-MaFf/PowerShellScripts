@@ -1,0 +1,171 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20240918091322
+Username: JFC\admin-jmaffiola
+RunAs User: JFC\admin-jmaffiola
+Machine: JHOS2BDC01 (Microsoft Windows NT 6.3.9600.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 11272
+PSVersion: 5.1.14409.2001
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.14409.2001
+BuildVersion: 10.0.14409.2001
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Formatted domain: DC=jfc,DC=local
+The domain 'jfc.local' is valid and accessible.
+DC=jfc,DC=local
+The OU 'Users' does not exist in the domain.
+The OU 'Users_Other' exists and will be processed.
+Processing OU: OU=Users_Other,DC=jfc,DC=local
+Processing user: PMAI LA WHSE 2
+Added PMAI LA WHSE 2 to Endpoint Central Workstation Group
+Processing user: pmai-lawhse
+Added pmai-lawhse to Endpoint Central Workstation Group
+Processing user: WHSE Common PMAI-NY
+Added WHSE Common PMAI-NY to Endpoint Central Workstation Group
+Processing user: PMAI LA Office
+Added PMAI LA Office to Endpoint Central Workstation Group
+Processing user: jpm-ship
+Added jpm-ship to Endpoint Central Workstation Group
+Processing user: PMAI Warehouse Security Monitor User (Common)
+Added PMAI Warehouse Security Monitor User (Common) to Endpoint Central Workstation Group
+Processing user: Kentaro Suzuki
+Added Kentaro Suzuki to Endpoint Central Workstation Group
+Processing user: admin-murayama
+Added admin-murayama to Endpoint Central Workstation Group
+Processing user: admin-emoy
+Added admin-emoy to Endpoint Central Workstation Group
+Processing user: admin-daniel
+Added admin-daniel to Endpoint Central Workstation Group
+Processing user: svc_nrisecure
+Added svc_nrisecure to Endpoint Central Workstation Group
+Processing user: Yu Kikuchi
+Added Yu Kikuchi to Endpoint Central Workstation Group
+Processing user: admin-mmaiden
+Added admin-mmaiden to Endpoint Central Workstation Group
+Processing user: Ryo Abe
+Added Ryo Abe to Endpoint Central Workstation Group
+Processing user: admin-akobayashi
+Added admin-akobayashi to Endpoint Central Workstation Group
+Processing user: admin-jmaffiola
+Added admin-jmaffiola to Endpoint Central Workstation Group
+Processing user: admin-tkagawa
+Added admin-tkagawa to Endpoint Central Workstation Group
+Processing user: admin-dba
+Added admin-dba to Endpoint Central Workstation Group
+Processing user: admin-gabriel
+Added admin-gabriel to Endpoint Central Workstation Group
+Processing user: admin-jryan
+Added admin-jryan to Endpoint Central Workstation Group
+Processing user: admin-khirano
+Added admin-khirano to Endpoint Central Workstation Group
+Processing user: admin-pbeason
+Added admin-pbeason to Endpoint Central Workstation Group
+Processing user: admin-kumeda
+Added admin-kumeda to Endpoint Central Workstation Group
+Processing user: admin-jmxes
+Added admin-jmxes to Endpoint Central Workstation Group
+Processing user: admin-dbcron
+Added admin-dbcron to Endpoint Central Workstation Group
+Processing user: admin-ycerda
+Added admin-ycerda to Endpoint Central Workstation Group
+Processing user: admin-nwilliams
+Added admin-nwilliams to Endpoint Central Workstation Group
+Processing user: admin-tmano
+Added admin-tmano to Endpoint Central Workstation Group
+Processing user: Kaori Masuda
+Added Kaori Masuda to Endpoint Central Workstation Group
+Processing user: Yasuyo Sakamoto
+Added Yasuyo Sakamoto to Endpoint Central Workstation Group
+Processing user: Shinsuke Adachi
+Added Shinsuke Adachi to Endpoint Central Workstation Group
+Processing user: Naoko Sakamoto
+Added Naoko Sakamoto to Endpoint Central Workstation Group
+Processing user: Mariko Miyata
+Added Mariko Miyata to Endpoint Central Workstation Group
+Processing user: Miki Denk
+Added Miki Denk to Endpoint Central Workstation Group
+Processing user: Export Temp2
+Added Export Temp2 to Endpoint Central Workstation Group
+Processing user: admin-scanner
+Added admin-scanner to Endpoint Central Workstation Group
+Processing user: TsInternetUser
+Added TsInternetUser to Endpoint Central Workstation Group
+Processing user: admin-bkup
+Added admin-bkup to Endpoint Central Workstation Group
+Processing user: Export Temp
+Added Export Temp to Endpoint Central Workstation Group
+Processing user: admin-sfa
+Added admin-sfa to Endpoint Central Workstation Group
+Processing user: admin-jets
+Added admin-jets to Endpoint Central Workstation Group
+Processing user: wmsuser
+Added wmsuser to Endpoint Central Workstation Group
+Processing user: JLV Admin
+Added JLV Admin to Endpoint Central Workstation Group
+Processing user: JNY AR
+Added JNY AR to Endpoint Central Workstation Group
+Processing user: Ricoh Scan
+Added Ricoh Scan to Endpoint Central Workstation Group
+Processing user: jpm-pick
+Added jpm-pick to Endpoint Central Workstation Group
+Processing user: JNY-Freezer Monitor
+Added JNY-Freezer Monitor to Endpoint Central Workstation Group
+Processing user: jfcprl
+Added jfcprl to Endpoint Central Workstation Group
+Processing user: pwcadmin
+Added pwcadmin to Endpoint Central Workstation Group
+Processing user: Export LA Temp 3
+Added Export LA Temp 3 to Endpoint Central Workstation Group
+Processing user: jla order
+Added jla order to Endpoint Central Workstation Group
+Processing user: bawhse Baltimore warehouse
+Added bawhse Baltimore warehouse to Endpoint Central Workstation Group
+Processing user: JCH Front Desk
+Added JCH Front Desk to Endpoint Central Workstation Group
+Processing user: UBOC
+Added UBOC to Endpoint Central Workstation Group
+Processing user: JHO Wisenet
+Added JHO Wisenet to Endpoint Central Workstation Group
+Processing user: JSE Scanner
+Added JSE Scanner to Endpoint Central Workstation Group
+Processing user: JDL Receiving
+Added JDL Receiving to Endpoint Central Workstation Group
+Processing user: IDC WYSE
+Added IDC WYSE to Endpoint Central Workstation Group
+Processing user: JNY Recptionist
+Added JNY Recptionist to Endpoint Central Workstation Group
+Processing user: JNY Freezer
+Added JNY Freezer to Endpoint Central Workstation Group
+Processing user: jnysales
+Added jnysales to Endpoint Central Workstation Group
+Processing user: JNY Receiving
+Added JNY Receiving to Endpoint Central Workstation Group
+Processing user: JNY Shipping
+Added JNY Shipping to Endpoint Central Workstation Group
+Processing user: JLA Teletrac
+Added JLA Teletrac to Endpoint Central Workstation Group
+Processing user: Baltimore Office
+Added Baltimore Office to Endpoint Central Workstation Group
+Processing user: jsfar
+Added jsfar to Endpoint Central Workstation Group
+Processing user: JNY warehouse
+Added JNY warehouse to Endpoint Central Workstation Group
+Processing user: JCH Warehouse
+Added JCH Warehouse to Endpoint Central Workstation Group
+Processing user: JSF Access Control
+Added JSF Access Control to Endpoint Central Workstation Group
+Processing user: jfcba
+Added jfcba to Endpoint Central Workstation Group
+Processing user: JSE Teletrac
+Added JSE Teletrac to Endpoint Central Workstation Group
+Processing user: Eugene Tan
+Added Eugene Tan to Endpoint Central Workstation Group
+**********************
+Windows PowerShell transcript end
+End time: 20240918091358
+**********************

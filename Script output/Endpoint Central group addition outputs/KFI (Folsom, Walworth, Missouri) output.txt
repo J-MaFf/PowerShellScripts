@@ -1,0 +1,512 @@
+**********************
+Windows PowerShell transcript start
+Start time: 20240916135504
+Username: KFI\admin-jmaffiola
+RunAs User: KFI\admin-jmaffiola
+Configuration Name: 
+Machine: KFWS9BDC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 11664
+PSVersion: 5.1.17763.6189
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.6189
+BuildVersion: 10.0.17763.6189
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Users\admin-jmaffiola\Desktop\output.txt
+Processing OU: OU=KFI Folsom,DC=kikkoman,DC=com
+Processing computer: ECS100813J
+Added ECS100813J to Endpoint Central Workstation Group
+Processing computer: FOLSOMCAD
+Added FOLSOMCAD to Endpoint Central Workstation Group
+Processing computer: KFCD10CBISHOP
+Added KFCD10CBISHOP to Endpoint Central Workstation Group
+Processing computer: KFCL0AMOYER
+Added KFCL0AMOYER to Endpoint Central Workstation Group
+Processing computer: CA-SHIPPING
+Added CA-SHIPPING to Endpoint Central Workstation Group
+Processing computer: KFIAP2SHIPPRINT
+Added KFIAP2SHIPPRINT to Endpoint Central Workstation Group
+Processing computer: KFIAP2LIGHTS
+Added KFIAP2LIGHTS to Endpoint Central Workstation Group
+Processing computer: KFCD10RCONNOR
+Added KFCD10RCONNOR to Endpoint Central Workstation Group
+Processing computer: GREADY-SCADA
+Added GREADY-SCADA to Endpoint Central Workstation Group
+Processing computer: KFWL11JBARBER
+Added KFWL11JBARBER to Endpoint Central Workstation Group
+Processing computer: KFWL11KMATCHEM
+Added KFWL11KMATCHEM to Endpoint Central Workstation Group
+Processing computer: KFCD0MRILEY
+Added KFCD0MRILEY to Endpoint Central Workstation Group
+Processing computer: KFCD0MRILEY1
+Added KFCD0MRILEY1 to Endpoint Central Workstation Group
+Processing computer: KFCD0JTANNO
+Added KFCD0JTANNO to Endpoint Central Workstation Group
+Processing computer: KFCD0KMATCHEM
+Added KFCD0KMATCHEM to Endpoint Central Workstation Group
+Processing computer: KFCL0IT01
+Added KFCL0IT01 to Endpoint Central Workstation Group
+Processing computer: KFCL0KNAGAI
+Added KFCL0KNAGAI to Endpoint Central Workstation Group
+Processing computer: KFCD0AMOYER
+Added KFCD0AMOYER to Endpoint Central Workstation Group
+Processing computer: KFCL0IT02
+Added KFCL0IT02 to Endpoint Central Workstation Group
+Processing computer: KFCL0DEASTMAN02
+Added KFCL0DEASTMAN02 to Endpoint Central Workstation Group
+Processing computer: KFCS9BDC01
+Added KFCS9BDC01 to Endpoint Central Workstation Group
+Processing computer: KFCS8APP01
+Added KFCS8APP01 to Endpoint Central Workstation Group
+Processing computer: KFCS6TC01
+Added KFCS6TC01 to Endpoint Central Workstation Group
+Processing computer: KFCD0DEASTMAN
+Added KFCD0DEASTMAN to Endpoint Central Workstation Group
+Processing computer: KFIAP2CAD
+Added KFIAP2CAD to Endpoint Central Workstation Group
+Processing computer: KFCD0TRAIN
+Added KFCD0TRAIN to Endpoint Central Workstation Group
+Processing computer: KFWL0MHOESER
+Added KFWL0MHOESER to Endpoint Central Workstation Group
+Processing computer: KFCL06001
+Added KFCL06001 to Endpoint Central Workstation Group
+Processing computer: KFCL10DEASTMAN
+Added KFCL10DEASTMAN to Endpoint Central Workstation Group
+Processing computer: KFCL0TKOBE
+Added KFCL0TKOBE to Endpoint Central Workstation Group
+Processing computer: KFCDOJBARBER
+Added KFCDOJBARBER to Endpoint Central Workstation Group
+Processing computer: MSDCAPC
+Added MSDCAPC to Endpoint Central Workstation Group
+Processing computer: KFCD0CAADMIN
+Added KFCD0CAADMIN to Endpoint Central Workstation Group
+Processing computer: KFCD11RCONNOR
+Added KFCD11RCONNOR to Endpoint Central Workstation Group
+Processing computer: KFWL0HONO
+Added KFWL0HONO to Endpoint Central Workstation Group
+Processing computer: KFWL0KUL01
+Added KFWL0KUL01 to Endpoint Central Workstation Group
+Processing OU: OU=KFI Missouri,DC=kikkoman,DC=com
+Processing computer: KFML0TWOZNIAK
+Added KFML0TWOZNIAK to Endpoint Central Workstation Group
+Processing computer: KFML0FASHBY
+Added KFML0FASHBY to Endpoint Central Workstation Group
+Processing computer: KFML0CMCDON
+Added KFML0CMCDON to Endpoint Central Workstation Group
+Processing computer: KFML0TNAGATANI
+Added KFML0TNAGATANI to Endpoint Central Workstation Group
+Processing computer: KFML0ZSHANG
+Added KFML0ZSHANG to Endpoint Central Workstation Group
+Processing computer: KFML11YHAYASHI
+Added KFML11YHAYASHI to Endpoint Central Workstation Group
+Processing computer: KFMW11D7000
+Added KFMW11D7000 to Endpoint Central Workstation Group
+Processing OU: OU=KFI Walworth,DC=kikkoman,DC=com
+Processing computer: KFWS6TC01
+Added KFWS6TC01 to Endpoint Central Workstation Group
+Processing computer: KFWS2CARDKEY
+Added KFWS2CARDKEY to Endpoint Central Workstation Group
+Processing computer: KFWS6IKAT03
+Added KFWS6IKAT03 to Endpoint Central Workstation Group
+Processing computer: KFWS8KCAT01
+Added KFWS8KCAT01 to Endpoint Central Workstation Group
+Processing computer: KFWS6IKAT01
+Added KFWS6IKAT01 to Endpoint Central Workstation Group
+Processing computer: KFWS8AMMS
+Added KFWS8AMMS to Endpoint Central Workstation Group
+Processing computer: KFWS8APP01
+Added KFWS8APP01 to Endpoint Central Workstation Group
+Processing computer: KFWS3DB03
+Added KFWS3DB03 to Endpoint Central Workstation Group
+Processing computer: KFWD10GRACZON
+Added KFWD10GRACZON to Endpoint Central Workstation Group
+Processing computer: KFWD10BBENSON
+Added KFWD10BBENSON to Endpoint Central Workstation Group
+Processing computer: BOTT-TC1
+Added BOTT-TC1 to Endpoint Central Workstation Group
+Processing computer: KFWS2TEST01
+Added KFWS2TEST01 to Endpoint Central Workstation Group
+Processing computer: KFWS8KCATDEV02_
+Added KFWS8KCATDEV02_ to Endpoint Central Workstation Group
+Processing computer: KFWS8KCAT02
+Added KFWS8KCAT02 to Endpoint Central Workstation Group
+Processing computer: SALTROOM-TC1
+Added SALTROOM-TC1 to Endpoint Central Workstation Group
+Processing computer: KKOTWITZ-LAP
+Added KKOTWITZ-LAP to Endpoint Central Workstation Group
+Processing computer: mycloudpr4100
+Added mycloudpr4100 to Endpoint Central Workstation Group
+Processing computer: KFWS8KCATDEV02
+Added KFWS8KCATDEV02 to Endpoint Central Workstation Group
+Processing computer: KFWD10DEV02
+Added KFWD10DEV02 to Endpoint Central Workstation Group
+Processing computer: KFWD10PROGET
+Added KFWD10PROGET to Endpoint Central Workstation Group
+Processing computer: KFWD10TEAMCITYA
+Added KFWD10TEAMCITYA to Endpoint Central Workstation Group
+Processing computer: KFWD10TEAMCITYS
+Added KFWD10TEAMCITYS to Endpoint Central Workstation Group
+Processing computer: KFWS2VSTUDIO2
+Added KFWS2VSTUDIO2 to Endpoint Central Workstation Group
+Processing computer: KFWS6VSTUDIO1
+Added KFWS6VSTUDIO1 to Endpoint Central Workstation Group
+Processing computer: KFWS2VSTUDIO6
+Added KFWS2VSTUDIO6 to Endpoint Central Workstation Group
+Processing computer: JJOHNSON-LAPTOP
+Added JJOHNSON-LAPTOP to Endpoint Central Workstation Group
+Processing computer: KFWS6VIBE01
+Added KFWS6VIBE01 to Endpoint Central Workstation Group
+Processing computer: KFWD0BADGE
+Added KFWD0BADGE to Endpoint Central Workstation Group
+Processing computer: KFW81STUDIO
+Added KFW81STUDIO to Endpoint Central Workstation Group
+Processing computer: KFWL10SPARE01
+Added KFWL10SPARE01 to Endpoint Central Workstation Group
+Processing computer: KFWS8TC01
+Added KFWS8TC01 to Endpoint Central Workstation Group
+Processing computer: KFWS2VSTUDIO3
+Added KFWS2VSTUDIO3 to Endpoint Central Workstation Group
+Processing computer: KFWD10DEV01
+Added KFWD10DEV01 to Endpoint Central Workstation Group
+Processing computer: KFWS2VSTUDIO4
+Added KFWS2VSTUDIO4 to Endpoint Central Workstation Group
+Processing computer: KFWS6IKAT04
+Added KFWS6IKAT04 to Endpoint Central Workstation Group
+Processing computer: BULK-TC1
+Added BULK-TC1 to Endpoint Central Workstation Group
+Processing computer: KFWS2VSTUDIO5
+Added KFWS2VSTUDIO5 to Endpoint Central Workstation Group
+Processing computer: KFWL0MNESHEK
+Added KFWL0MNESHEK to Endpoint Central Workstation Group
+Processing computer: KFWS3DB01
+Added KFWS3DB01 to Endpoint Central Workstation Group
+Processing computer: KFWS8VM01
+Added KFWS8VM01 to Endpoint Central Workstation Group
+Processing computer: kfwnagios
+Added kfwnagios to Endpoint Central Workstation Group
+Processing computer: KFWL7KKOTWITZ
+Added KFWL7KKOTWITZ to Endpoint Central Workstation Group
+Processing computer: KMWS2ADP01
+Added KMWS2ADP01 to Endpoint Central Workstation Group
+Processing computer: KFWD0ANSYS02
+Added KFWD0ANSYS02 to Endpoint Central Workstation Group
+Processing computer: KFWD0HFUJITA
+Added KFWD0HFUJITA to Endpoint Central Workstation Group
+Processing computer: KFWD0KADOO
+Added KFWD0KADOO to Endpoint Central Workstation Group
+Processing computer: KFWL0SPARE12
+Added KFWL0SPARE12 to Endpoint Central Workstation Group
+Processing computer: KFWD0MNESHEK02
+Added KFWD0MNESHEK02 to Endpoint Central Workstation Group
+Processing computer: KFWL10YNAGURA
+Added KFWL10YNAGURA to Endpoint Central Workstation Group
+Processing computer: KFWS8IFRS01
+Added KFWS8IFRS01 to Endpoint Central Workstation Group
+Processing computer: KFWL0JEFFW
+Added KFWL0JEFFW to Endpoint Central Workstation Group
+Processing computer: KFWS8WMSTEST
+Added KFWS8WMSTEST to Endpoint Central Workstation Group
+Processing computer: KFWS6APP01
+Added KFWS6APP01 to Endpoint Central Workstation Group
+Processing computer: KFWS8DB01
+Added KFWS8DB01 to Endpoint Central Workstation Group
+Processing computer: KFWL0SPARE03
+Added KFWL0SPARE03 to Endpoint Central Workstation Group
+Processing computer: KFI-E5400
+Added KFI-E5400 to Endpoint Central Workstation Group
+Processing computer: KFWS8KCATDEV03
+Added KFWS8KCATDEV03 to Endpoint Central Workstation Group
+Processing computer: KFWL0SPARE07
+Added KFWL0SPARE07 to Endpoint Central Workstation Group
+Processing computer: KFWS8KCATTEST
+Added KFWS8KCATTEST to Endpoint Central Workstation Group
+Processing computer: KFWD0SG02
+Added KFWD0SG02 to Endpoint Central Workstation Group
+Processing computer: KFWD0SG01
+Added KFWD0SG01 to Endpoint Central Workstation Group
+Processing computer: KFWL0MROSS
+Added KFWL0MROSS to Endpoint Central Workstation Group
+Processing computer: KFWL0CMATHESON
+Added KFWL0CMATHESON to Endpoint Central Workstation Group
+Processing computer: KFWL0THEACOX
+Added KFWL0THEACOX to Endpoint Central Workstation Group
+Processing computer: KFWL0DMILLER
+Added KFWL0DMILLER to Endpoint Central Workstation Group
+Processing computer: KFWL0SPARE05
+Added KFWL0SPARE05 to Endpoint Central Workstation Group
+Processing computer: KFWL0KSHIODA
+Added KFWL0KSHIODA to Endpoint Central Workstation Group
+Processing computer: KFWL0JLINGAR
+Added KFWL0JLINGAR to Endpoint Central Workstation Group
+Processing computer: KFWD11DIGICAFE
+Added KFWD11DIGICAFE to Endpoint Central Workstation Group
+Processing computer: RCONOVER-PC
+Added RCONOVER-PC to Endpoint Central Workstation Group
+Processing computer: KFWL0SPARE11
+Added KFWL0SPARE11 to Endpoint Central Workstation Group
+Processing computer: KFWD0SAYLING
+Added KFWD0SAYLING to Endpoint Central Workstation Group
+Processing computer: KFWD10COLEF
+Added KFWD10COLEF to Endpoint Central Workstation Group
+Processing computer: KFWD0BOTTCAFE
+Added KFWD0BOTTCAFE to Endpoint Central Workstation Group
+Processing computer: KFWD0DMILLER
+Added KFWD0DMILLER to Endpoint Central Workstation Group
+Processing computer: KFWL11HECTOR
+Added KFWL11HECTOR to Endpoint Central Workstation Group
+Processing computer: KFWL0MWAROSH
+Added KFWL0MWAROSH to Endpoint Central Workstation Group
+Processing computer: KFWL0KROTH
+Added KFWL0KROTH to Endpoint Central Workstation Group
+Processing computer: BADGE7
+Added BADGE7 to Endpoint Central Workstation Group
+Processing computer: KFWL0TYOSHI
+Added KFWL0TYOSHI to Endpoint Central Workstation Group
+Processing computer: KFWL0MUSGROVE
+Added KFWL0MUSGROVE to Endpoint Central Workstation Group
+Processing computer: KFWS6DBDEV02
+Added KFWS6DBDEV02 to Endpoint Central Workstation Group
+Processing computer: KFWL0EJANKE
+Added KFWL0EJANKE to Endpoint Central Workstation Group
+Processing computer: KFWD0STMS02
+Added KFWD0STMS02 to Endpoint Central Workstation Group
+Processing computer: KFWL0HHUSAIN
+Added KFWL0HHUSAIN to Endpoint Central Workstation Group
+Processing computer: KFWD0RTIMP
+Added KFWD0RTIMP to Endpoint Central Workstation Group
+Processing computer: KFWS2DB01
+Added KFWS2DB01 to Endpoint Central Workstation Group
+Processing computer: KFWD0JSMITH
+Added KFWD0JSMITH to Endpoint Central Workstation Group
+Processing computer: KFWD0LB
+Added KFWD0LB to Endpoint Central Workstation Group
+Processing computer: KFWD0HHUSAIN
+Added KFWD0HHUSAIN to Endpoint Central Workstation Group
+Processing computer: KFWS8KCATDEV01
+Added KFWS8KCATDEV01 to Endpoint Central Workstation Group
+Processing computer: KFWL0KKOTWITZ
+Added KFWL0KKOTWITZ to Endpoint Central Workstation Group
+Processing computer: KFWD0WARECAFE
+Added KFWD0WARECAFE to Endpoint Central Workstation Group
+Processing computer: KFWL0AYURS
+Added KFWL0AYURS to Endpoint Central Workstation Group
+Processing computer: LAB-TABLET1
+Added LAB-TABLET1 to Endpoint Central Workstation Group
+Processing computer: KMSL10GRACZON1
+Added KMSL10GRACZON1 to Endpoint Central Workstation Group
+Processing computer: KFWL0KKEANE
+Added KFWL0KKEANE to Endpoint Central Workstation Group
+Processing computer: KFWL0MHULL
+Added KFWL0MHULL to Endpoint Central Workstation Group
+Processing computer: KFWD0STMS01
+Added KFWD0STMS01 to Endpoint Central Workstation Group
+Processing computer: KFWL0RKANEGAE
+Added KFWL0RKANEGAE to Endpoint Central Workstation Group
+Processing computer: KFWD0ELEC01
+Added KFWD0ELEC01 to Endpoint Central Workstation Group
+Processing computer: KFWD11LAB
+Added KFWD11LAB to Endpoint Central Workstation Group
+Processing computer: KFWL7JJOHNSON
+Added KFWL7JJOHNSON to Endpoint Central Workstation Group
+Processing computer: KMSL0BENSON
+Added KMSL0BENSON to Endpoint Central Workstation Group
+Processing computer: KFWL0SPARE06
+Added KFWL0SPARE06 to Endpoint Central Workstation Group
+Processing computer: KFWL0MICRO02
+Added KFWL0MICRO02 to Endpoint Central Workstation Group
+Processing computer: KFWS6DB02
+Added KFWS6DB02 to Endpoint Central Workstation Group
+Processing computer: KFWL0CSZYJEWSKI
+Added KFWL0CSZYJEWSKI to Endpoint Central Workstation Group
+Processing computer: KFWS2KCATDEV01
+Added KFWS2KCATDEV01 to Endpoint Central Workstation Group
+Processing computer: KFWL0KMCCANN3
+Added KFWL0KMCCANN3 to Endpoint Central Workstation Group
+Processing computer: KFWS2VSTUDIO05
+Added KFWS2VSTUDIO05 to Endpoint Central Workstation Group
+Processing computer: KFWS6DBDEC01
+Added KFWS6DBDEC01 to Endpoint Central Workstation Group
+Processing computer: KFWD0RCONOVER
+Added KFWD0RCONOVER to Endpoint Central Workstation Group
+Processing computer: KMSL10GRACZON
+Added KMSL10GRACZON to Endpoint Central Workstation Group
+Processing computer: VIDEO
+Added VIDEO to Endpoint Central Workstation Group
+Processing computer: KFWL0SPARE08
+Added KFWL0SPARE08 to Endpoint Central Workstation Group
+Processing computer: KFWD0CAM01
+Added KFWD0CAM01 to Endpoint Central Workstation Group
+Processing computer: KFWL0SPARE09
+Added KFWL0SPARE09 to Endpoint Central Workstation Group
+Processing computer: KFMS6IKAT01
+Added KFMS6IKAT01 to Endpoint Central Workstation Group
+Processing computer: KMSD10BBENSON1
+Added KMSD10BBENSON1 to Endpoint Central Workstation Group
+Processing computer: KFWD0ANSYS01
+Added KFWD0ANSYS01 to Endpoint Central Workstation Group
+Processing computer: KFWL0SPARE02
+Added KFWL0SPARE02 to Endpoint Central Workstation Group
+Processing computer: KFWS2RIGHTFAX
+Added KFWS2RIGHTFAX to Endpoint Central Workstation Group
+Processing computer: KFWL0BDELEON
+Added KFWL0BDELEON to Endpoint Central Workstation Group
+Processing computer: KFWD0WZABEL
+Added KFWD0WZABEL to Endpoint Central Workstation Group
+Processing computer: KFWD0BOTLB
+Added KFWD0BOTLB to Endpoint Central Workstation Group
+Processing computer: KFWD0MAINT01
+Added KFWD0MAINT01 to Endpoint Central Workstation Group
+Processing computer: KFWL0ASTOLL
+Added KFWL0ASTOLL to Endpoint Central Workstation Group
+Processing computer: KFWL0MANDERSON
+Added KFWL0MANDERSON to Endpoint Central Workstation Group
+Processing computer: KFWL11KKONKOL
+Added KFWL11KKONKOL to Endpoint Central Workstation Group
+Processing computer: KFWS212C01
+Added KFWS212C01 to Endpoint Central Workstation Group
+Processing computer: KFWS2VSTUDIO01
+Added KFWS2VSTUDIO01 to Endpoint Central Workstation Group
+Processing computer: KFWL0SPARE10
+Added KFWL0SPARE10 to Endpoint Central Workstation Group
+Processing computer: KMS10GRACZON
+Added KMS10GRACZON to Endpoint Central Workstation Group
+Processing computer: KFWL0RCONOVER
+Added KFWL0RCONOVER to Endpoint Central Workstation Group
+Processing computer: KMSD0SNALLA
+Added KMSD0SNALLA to Endpoint Central Workstation Group
+Processing computer: KFWL0JJOHNSON
+Added KFWL0JJOHNSON to Endpoint Central Workstation Group
+Processing computer: KFWD0UPS01
+Added KFWD0UPS01 to Endpoint Central Workstation Group
+Processing computer: KFWL0RTSUJI
+Added KFWL0RTSUJI to Endpoint Central Workstation Group
+Processing computer: KFWL0SPARE01
+Added KFWL0SPARE01 to Endpoint Central Workstation Group
+Processing computer: KFWD11UPS
+Added KFWD11UPS to Endpoint Central Workstation Group
+Processing computer: KFWD0BKADLEC
+Added KFWD0BKADLEC to Endpoint Central Workstation Group
+Processing computer: KFWT0SURFACE02
+Added KFWT0SURFACE02 to Endpoint Central Workstation Group
+Processing computer: KFWS9DEV01
+Added KFWS9DEV01 to Endpoint Central Workstation Group
+Processing computer: KFWL0SPARE04
+Added KFWL0SPARE04 to Endpoint Central Workstation Group
+Processing computer: KMSW10LENOBLES
+Added KMSW10LENOBLES to Endpoint Central Workstation Group
+Processing computer: KMSW10LCOLE
+Added KMSW10LCOLE to Endpoint Central Workstation Group
+Processing computer: KMS10LYMARIN
+Added KMS10LYMARIN to Endpoint Central Workstation Group
+Processing computer: KFI-WD-PR4100
+Added KFI-WD-PR4100 to Endpoint Central Workstation Group
+Processing computer: KFIW11TOMOYA
+Added KFIW11TOMOYA to Endpoint Central Workstation Group
+Processing computer: KFWL11CARRIEM
+Added KFWL11CARRIEM to Endpoint Central Workstation Group
+Processing computer: KFICLOUDPR4100
+Added KFICLOUDPR4100 to Endpoint Central Workstation Group
+Processing computer: KFW11LIKE
+Added KFW11LIKE to Endpoint Central Workstation Group
+Processing computer: KFWT0SURFACE01
+Added KFWT0SURFACE01 to Endpoint Central Workstation Group
+Processing computer: KFW11LKKATO
+Added KFW11LKKATO to Endpoint Central Workstation Group
+Processing computer: KFWS9BDCDR01
+Added KFWS9BDCDR01 to Endpoint Central Workstation Group
+Processing computer: KFWL10DAVEB
+Added KFWL10DAVEB to Endpoint Central Workstation Group
+Processing computer: KFWD10JSMITH
+Added KFWD10JSMITH to Endpoint Central Workstation Group
+Processing computer: KFWD10HAYEN
+Added KFWD10HAYEN to Endpoint Central Workstation Group
+Processing computer: KFWD10TRICIA
+Added KFWD10TRICIA to Endpoint Central Workstation Group
+Processing computer: KFWD10RTIMP
+Added KFWD10RTIMP to Endpoint Central Workstation Group
+Processing computer: KFWL10KRISTYP
+Added KFWL10KRISTYP to Endpoint Central Workstation Group
+Processing computer: KFWL11JLINGAR
+Added KFWL11JLINGAR to Endpoint Central Workstation Group
+Processing computer: KFWS9VSTUDIO1
+Added KFWS9VSTUDIO1 to Endpoint Central Workstation Group
+Processing computer: KFWL10HHUSAIN
+Added KFWL10HHUSAIN to Endpoint Central Workstation Group
+Processing computer: KMSW10LBBENSON
+Added KMSW10LBBENSON to Endpoint Central Workstation Group
+Processing computer: KFWD11IKE
+Added KFWD11IKE to Endpoint Central Workstation Group
+Processing computer: KFWL10AYURS
+Added KFWL10AYURS to Endpoint Central Workstation Group
+Processing computer: KFWD10DPUERNER
+Added KFWD10DPUERNER to Endpoint Central Workstation Group
+Processing computer: KMSW10L6123
+Added KMSW10L6123 to Endpoint Central Workstation Group
+Processing computer: KFWL10BHAUN
+Added KFWL10BHAUN to Endpoint Central Workstation Group
+Processing computer: KFWD10MRICO
+Added KFWD10MRICO to Endpoint Central Workstation Group
+Processing computer: KFW11LSTANII
+Added KFW11LSTANII to Endpoint Central Workstation Group
+Processing computer: KFWS2VSTUDIO1
+Added KFWS2VSTUDIO1 to Endpoint Central Workstation Group
+Processing computer: KFWS8KCATDEV04
+Added KFWS8KCATDEV04 to Endpoint Central Workstation Group
+Processing computer: KFWS2VSTUDIO
+Added KFWS2VSTUDIO to Endpoint Central Workstation Group
+Processing computer: KCATS8R2BUILD01
+Added KCATS8R2BUILD01 to Endpoint Central Workstation Group
+Processing computer: KFWS9DBDR01
+Added KFWS9DBDR01 to Endpoint Central Workstation Group
+Processing computer: KFWS9VSTUDIO2
+Added KFWS9VSTUDIO2 to Endpoint Central Workstation Group
+Processing computer: KFWD11KKONKOL
+Added KFWD11KKONKOL to Endpoint Central Workstation Group
+Processing computer: KFWL11CSZYJEWSK
+Added KFWL11CSZYJEWSK to Endpoint Central Workstation Group
+Processing computer: KFW11DAUDIT
+Added KFW11DAUDIT to Endpoint Central Workstation Group
+Processing computer: KFW11DECM
+Added KFW11DECM to Endpoint Central Workstation Group
+Processing computer: KFWT11SURFACE03
+Added KFWT11SURFACE03 to Endpoint Central Workstation Group
+Processing computer: KFWD11STREBES
+Added KFWD11STREBES to Endpoint Central Workstation Group
+Processing computer: KFWD11GRACZON
+Added KFWD11GRACZON to Endpoint Central Workstation Group
+Processing computer: KFWL11KKAMEI
+Added KFWL11KKAMEI to Endpoint Central Workstation Group
+Processing computer: KFWL11AYURS
+Added KFWL11AYURS to Endpoint Central Workstation Group
+Processing computer: KFWS2TC01
+Added KFWS2TC01 to Endpoint Central Workstation Group
+Processing computer: KFWL11MHULL
+Added KFWL11MHULL to Endpoint Central Workstation Group
+Processing computer: KFWL11JEFFW
+Added KFWL11JEFFW to Endpoint Central Workstation Group
+Processing computer: KFWS22VSTUDIO1
+Added KFWS22VSTUDIO1 to Endpoint Central Workstation Group
+Processing computer: KFWL11PRESS01
+Added KFWL11PRESS01 to Endpoint Central Workstation Group
+Processing computer: KFWL11PRESS02
+Added KFWL11PRESS02 to Endpoint Central Workstation Group
+Processing computer: KFWS22IREPORTER
+Added KFWS22IREPORTER to Endpoint Central Workstation Group
+Processing computer: KFWD11BBENSON
+Added KFWD11BBENSON to Endpoint Central Workstation Group
+Processing computer: KFWL11RTSUJI
+Added KFWL11RTSUJI to Endpoint Central Workstation Group
+Processing computer: KMSL11NSKOIEN
+Added KMSL11NSKOIEN to Endpoint Central Workstation Group
+Processing computer: KFWL11MANDERSON
+Added KFWL11MANDERSON to Endpoint Central Workstation Group
+Processing computer: KFWL11KSHIODA
+Added KFWL11KSHIODA to Endpoint Central Workstation Group
+**********************
+Windows PowerShell transcript end
+End time: 20240916135515
+**********************

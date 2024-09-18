@@ -1,0 +1,171 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20240918091744
+Username: JFC\admin-jmaffiola
+RunAs User: JFC\admin-jmaffiola
+Machine: JHOS2BDC01 (Microsoft Windows NT 6.3.9600.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 11272
+PSVersion: 5.1.14409.2001
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.14409.2001
+BuildVersion: 10.0.14409.2001
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Formatted domain: DC=jfc,DC=local
+The domain 'jfc.local' is valid and accessible.
+DC=jfc,DC=local
+The OU 'Users' does not exist in the domain.
+The OU 'Users_Other' exists and will be processed.
+Processing OU: OU=Users_Other,DC=jfc,DC=local
+Processing user: PMAI LA WHSE 2
+Removed PMAI LA WHSE 2 from Endpoint Central Workstation Group
+Processing user: pmai-lawhse
+Removed pmai-lawhse from Endpoint Central Workstation Group
+Processing user: WHSE Common PMAI-NY
+Removed WHSE Common PMAI-NY from Endpoint Central Workstation Group
+Processing user: PMAI LA Office
+Removed PMAI LA Office from Endpoint Central Workstation Group
+Processing user: jpm-ship
+Removed jpm-ship from Endpoint Central Workstation Group
+Processing user: PMAI Warehouse Security Monitor User (Common)
+Removed PMAI Warehouse Security Monitor User (Common) from Endpoint Central Workstation Group
+Processing user: Kentaro Suzuki
+Removed Kentaro Suzuki from Endpoint Central Workstation Group
+Processing user: admin-murayama
+Removed admin-murayama from Endpoint Central Workstation Group
+Processing user: admin-emoy
+Removed admin-emoy from Endpoint Central Workstation Group
+Processing user: admin-daniel
+Removed admin-daniel from Endpoint Central Workstation Group
+Processing user: svc_nrisecure
+Removed svc_nrisecure from Endpoint Central Workstation Group
+Processing user: Yu Kikuchi
+Removed Yu Kikuchi from Endpoint Central Workstation Group
+Processing user: admin-mmaiden
+Removed admin-mmaiden from Endpoint Central Workstation Group
+Processing user: Ryo Abe
+Removed Ryo Abe from Endpoint Central Workstation Group
+Processing user: admin-akobayashi
+Removed admin-akobayashi from Endpoint Central Workstation Group
+Processing user: admin-jmaffiola
+Removed admin-jmaffiola from Endpoint Central Workstation Group
+Processing user: admin-tkagawa
+Removed admin-tkagawa from Endpoint Central Workstation Group
+Processing user: admin-dba
+Removed admin-dba from Endpoint Central Workstation Group
+Processing user: admin-gabriel
+Removed admin-gabriel from Endpoint Central Workstation Group
+Processing user: admin-jryan
+Removed admin-jryan from Endpoint Central Workstation Group
+Processing user: admin-khirano
+Removed admin-khirano from Endpoint Central Workstation Group
+Processing user: admin-pbeason
+Removed admin-pbeason from Endpoint Central Workstation Group
+Processing user: admin-kumeda
+Removed admin-kumeda from Endpoint Central Workstation Group
+Processing user: admin-jmxes
+Removed admin-jmxes from Endpoint Central Workstation Group
+Processing user: admin-dbcron
+Removed admin-dbcron from Endpoint Central Workstation Group
+Processing user: admin-ycerda
+Removed admin-ycerda from Endpoint Central Workstation Group
+Processing user: admin-nwilliams
+Removed admin-nwilliams from Endpoint Central Workstation Group
+Processing user: admin-tmano
+Removed admin-tmano from Endpoint Central Workstation Group
+Processing user: Kaori Masuda
+Removed Kaori Masuda from Endpoint Central Workstation Group
+Processing user: Yasuyo Sakamoto
+Removed Yasuyo Sakamoto from Endpoint Central Workstation Group
+Processing user: Shinsuke Adachi
+Removed Shinsuke Adachi from Endpoint Central Workstation Group
+Processing user: Naoko Sakamoto
+Removed Naoko Sakamoto from Endpoint Central Workstation Group
+Processing user: Mariko Miyata
+Removed Mariko Miyata from Endpoint Central Workstation Group
+Processing user: Miki Denk
+Removed Miki Denk from Endpoint Central Workstation Group
+Processing user: Export Temp2
+Removed Export Temp2 from Endpoint Central Workstation Group
+Processing user: admin-scanner
+Removed admin-scanner from Endpoint Central Workstation Group
+Processing user: TsInternetUser
+Removed TsInternetUser from Endpoint Central Workstation Group
+Processing user: admin-bkup
+Removed admin-bkup from Endpoint Central Workstation Group
+Processing user: Export Temp
+Removed Export Temp from Endpoint Central Workstation Group
+Processing user: admin-sfa
+Removed admin-sfa from Endpoint Central Workstation Group
+Processing user: admin-jets
+Removed admin-jets from Endpoint Central Workstation Group
+Processing user: wmsuser
+Removed wmsuser from Endpoint Central Workstation Group
+Processing user: JLV Admin
+Removed JLV Admin from Endpoint Central Workstation Group
+Processing user: JNY AR
+Removed JNY AR from Endpoint Central Workstation Group
+Processing user: Ricoh Scan
+Removed Ricoh Scan from Endpoint Central Workstation Group
+Processing user: jpm-pick
+Removed jpm-pick from Endpoint Central Workstation Group
+Processing user: JNY-Freezer Monitor
+Removed JNY-Freezer Monitor from Endpoint Central Workstation Group
+Processing user: jfcprl
+Removed jfcprl from Endpoint Central Workstation Group
+Processing user: pwcadmin
+Removed pwcadmin from Endpoint Central Workstation Group
+Processing user: Export LA Temp 3
+Removed Export LA Temp 3 from Endpoint Central Workstation Group
+Processing user: jla order
+Removed jla order from Endpoint Central Workstation Group
+Processing user: bawhse Baltimore warehouse
+Removed bawhse Baltimore warehouse from Endpoint Central Workstation Group
+Processing user: JCH Front Desk
+Removed JCH Front Desk from Endpoint Central Workstation Group
+Processing user: UBOC
+Removed UBOC from Endpoint Central Workstation Group
+Processing user: JHO Wisenet
+Removed JHO Wisenet from Endpoint Central Workstation Group
+Processing user: JSE Scanner
+Removed JSE Scanner from Endpoint Central Workstation Group
+Processing user: JDL Receiving
+Removed JDL Receiving from Endpoint Central Workstation Group
+Processing user: IDC WYSE
+Removed IDC WYSE from Endpoint Central Workstation Group
+Processing user: JNY Recptionist
+Removed JNY Recptionist from Endpoint Central Workstation Group
+Processing user: JNY Freezer
+Removed JNY Freezer from Endpoint Central Workstation Group
+Processing user: jnysales
+Removed jnysales from Endpoint Central Workstation Group
+Processing user: JNY Receiving
+Removed JNY Receiving from Endpoint Central Workstation Group
+Processing user: JNY Shipping
+Removed JNY Shipping from Endpoint Central Workstation Group
+Processing user: JLA Teletrac
+Removed JLA Teletrac from Endpoint Central Workstation Group
+Processing user: Baltimore Office
+Removed Baltimore Office from Endpoint Central Workstation Group
+Processing user: jsfar
+Removed jsfar from Endpoint Central Workstation Group
+Processing user: JNY warehouse
+Removed JNY warehouse from Endpoint Central Workstation Group
+Processing user: JCH Warehouse
+Removed JCH Warehouse from Endpoint Central Workstation Group
+Processing user: JSF Access Control
+Removed JSF Access Control from Endpoint Central Workstation Group
+Processing user: jfcba
+Removed jfcba from Endpoint Central Workstation Group
+Processing user: JSE Teletrac
+Removed JSE Teletrac from Endpoint Central Workstation Group
+Processing user: Eugene Tan
+Removed Eugene Tan from Endpoint Central Workstation Group
+**********************
+Windows PowerShell transcript end
+End time: 20240918091818
+**********************

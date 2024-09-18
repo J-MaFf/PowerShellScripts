@@ -1,0 +1,46 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20240916085535
+Username: KII\admin-jmaffiola
+RunAs User: KII\admin-jmaffiola
+Machine: KIHS2BDC01 (Microsoft Windows NT 6.3.9600.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 9084
+PSVersion: 5.1.14409.2001
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.14409.2001
+BuildVersion: 10.0.14409.2001
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Users\admin-jmaffiola\Desktop\output.txt
+Processing computer: KMPW10L6008
+Added KMPW10L6008 to Endpoint Central Workstation Group
+Processing computer: KMPW10L6003
+Added KMPW10L6003 to Endpoint Central Workstation Group
+Processing computer: KMPW10L6004
+Added KMPW10L6004 to Endpoint Central Workstation Group
+Processing computer: KMPW10L6007
+Added KMPW10L6007 to Endpoint Central Workstation Group
+Processing computer: KMPW10L6009
+Added KMPW10L6009 to Endpoint Central Workstation Group
+Processing computer: KMPW10D5001
+Added KMPW10D5001 to Endpoint Central Workstation Group
+Processing computer: KMPW11L6002
+Added KMPW11L6002 to Endpoint Central Workstation Group
+Processing computer: KMPW11L6009
+Added KMPW11L6009 to Endpoint Central Workstation Group
+Processing computer: KMPW10L6005
+Added KMPW10L6005 to Endpoint Central Workstation Group
+Processing computer: KMPW10L6006
+Added KMPW10L6006 to Endpoint Central Workstation Group
+Processing computer: KMPW10D5004
+Added KMPW10D5004 to Endpoint Central Workstation Group
+Processing computer: KMPW10D5005
+Added KMPW10D5005 to Endpoint Central Workstation Group
+**********************
+Windows PowerShell transcript end
+End time: 20240916085535
+**********************
