@@ -34,7 +34,7 @@ if (-Not (Test-Path -Path $markerFilePath)) {
 
     # Create the marker file to indicate that the printers have been added
     # The marker file is used to prevent adding the printers multiple times
-    # New-Item -Path $markerFilePath -ItemType File -Force
+    New-Item -Path $markerFilePath -ItemType File -Force
 } else {
     Write-Host "Printers have already been added. Skipping..."
 }
