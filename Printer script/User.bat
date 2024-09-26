@@ -8,11 +8,6 @@ REM Redirect all output to a log file
     if exist U:\printerSetup\addNetworkPrinters.ps1 (
         powershell -ExecutionPolicy Bypass -File U:\printerSetup\addNetworkPrinters.ps1
     ) else (
-        REM Check if the script exists on H: drive
-        if exist H:\printerSetup\addNetworkPrinters.ps1 (
-            powershell -ExecutionPolicy Bypass -File H:\printerSetup\addNetworkPrinters.ps1
-        ) else (
-            echo Script not found on U: or H: drive.
-        )
+        echo Script not found on U: drive
     )
 ) > U:\printerSetup\logfile.txt 2>&1
