@@ -1,9 +1,18 @@
 @echo off
 
-:: Redirect all output to a log file
+REM Redirect all output to a log file
 (
     echo Script started successfully on %date% at %time%
-    
-    :: Run the PowerShell script using the mapped drive and ignore the execution policy
-    powershell -ExecutionPolicy Bypass -File U:\printerSetup\addNetworkPrinters.ps1
+    REM Run the PowerShell script using the mapped drive and ignore the execution policy
+    REM Check if the script exists on U: drive
+    if exist U:\printerSetup\addNetworkPrinters.ps1 (
+        powershell -ExecutionPolicy Bypass -File U:\printerSetup\addNetworkPrinters.ps1
+    ) else (
+        REM Check if the script exists on H: drive
+        if exist H:\printerSetup\addNetworkPrinters.ps1 (
+            powershell -ExecutionPolicy Bypass -File H:\printerSetup\addNetworkPrinters.ps1
+        ) else (
+            echo Script not found on U: or H: drive.
+        )
+    )
 ) > U:\printerSetup\logfile.txt 2>&1
